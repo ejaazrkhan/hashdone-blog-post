@@ -1,4 +1,15 @@
-## CSS Gradient - Color Gradient for your next Project
+---
+title: "CSS Gradient - Color Gradient for your next Project"
+seoTitle: "CSS Gradient - Color Gradient by Beginner Developer"
+seoDescription: "Some CSS Gradient Colors that you can your in your project with source code"
+datePublished: Mon Aug 02 2021 05:14:33 GMT+0000 (Coordinated Universal Time)
+cuid: ckru6h9cj0rk0chs16ny0gly0
+slug: css-gradient-color-gradient-for-your-next-project
+canonical: https://beginners-developer.blogspot.com/2021/08/css-gradient-color.html
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1627880304950/2Ff-OLUzP.png
+tags: css, javascript, web-development, html5
+
+---
 
 [uiGradients](https://uigradients.com/) has handpicked collection of beautiful color gradients for designers and developers
 
