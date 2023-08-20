@@ -2,7 +2,7 @@
 title: "CSS Gradient - Color Gradient for your next Project"
 seoTitle: "CSS Gradient - Color Gradient by Beginner Developer"
 seoDescription: "Some CSS Gradient Colors that you can your in your project with source code"
-datePublished: Mon Aug 02 2021 05:14:33 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Aug 19 2023 06:50:13 GMT+0000 (Coordinated Universal Time)
 cuid: ckru6h9cj0rk0chs16ny0gly0
 slug: css-gradient-color-gradient-for-your-next-project
 canonical: https://beginners-developer.blogspot.com/2021/08/css-gradient-color.html
